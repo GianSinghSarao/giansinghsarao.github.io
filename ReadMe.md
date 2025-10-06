@@ -1,0 +1,1 @@
+This is a simple static site page made using `w3.css`. No build tools needed yet.
